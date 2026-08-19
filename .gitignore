@@ -1,0 +1,4 @@
+# Local patch-script backups (index.html.bak_<stamp>) - not for the public site
+*.bak
+*.bak2
+*.bak_*
